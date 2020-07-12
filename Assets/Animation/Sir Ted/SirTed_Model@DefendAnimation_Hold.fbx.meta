@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 8fb31a3fa36594a408617b0df491f7f6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SirTed_Object_FixAttempt:Ted_C_Head_Jnt
+    100004: SirTed_Object_FixAttempt:Ted_C_HeadTip_Jnt
+    100006: SirTed_Object_FixAttempt:Ted_C_Hip_Jnt
+    100008: SirTed_Object_FixAttempt:Ted_C_Neck_Jnt
+    100010: SirTed_Object_FixAttempt:Ted_C_SpineLower_Jnt
+    100012: SirTed_Object_FixAttempt:Ted_C_SpineMiddle_Jnt
+    100014: SirTed_Object_FixAttempt:Ted_C_SpineUpper_Jnt
+    100016: SirTed_Object_FixAttempt:Ted_L_ArmElbow_Jnt
+    100018: SirTed_Object_FixAttempt:Ted_L_ArmShoulder_Jnt
+    100020: SirTed_Object_FixAttempt:Ted_L_Clavical_Jnt
+    100022: SirTed_Object_FixAttempt:Ted_L_Handr_Jnt
+    100024: SirTed_Object_FixAttempt:Ted_L_HandTip_Jnt
+    100026: SirTed_Object_FixAttempt:Ted_L_LegFoot_Jnt
+    100028: SirTed_Object_FixAttempt:Ted_L_LegKnee_Jnt
+    100030: SirTed_Object_FixAttempt:Ted_L_LegTip_Jnt
+    100032: SirTed_Object_FixAttempt:Ted_L_LegToe_Jnt
+    100034: SirTed_Object_FixAttempt:Ted_L_LegTop_Jnt
+    100036: SirTed_Object_FixAttempt:Ted_R_ArmElbow_Jnt
+    100038: SirTed_Object_FixAttempt:Ted_R_ArmShoulder_Jnt
+    100040: SirTed_Object_FixAttempt:Ted_R_Clavical_Jnt
+    100042: SirTed_Object_FixAttempt:Ted_R_Handr_Jnt
+    100044: SirTed_Object_FixAttempt:Ted_R_HandTip_Jnt
+    100046: SirTed_Object_FixAttempt:Ted_R_RegFoot_Jnt
+    100048: SirTed_Object_FixAttempt:Ted_R_RegKnee_Jnt
+    100050: SirTed_Object_FixAttempt:Ted_R_RegTip_Jnt
+    100052: SirTed_Object_FixAttempt:Ted_R_RegToe_Jnt
+    100054: SirTed_Object_FixAttempt:Ted_R_RegTop_Jnt
+    400000: //RootNode
+    400002: SirTed_Object_FixAttempt:Ted_C_Head_Jnt
+    400004: SirTed_Object_FixAttempt:Ted_C_HeadTip_Jnt
+    400006: SirTed_Object_FixAttempt:Ted_C_Hip_Jnt
+    400008: SirTed_Object_FixAttempt:Ted_C_Neck_Jnt
+    400010: SirTed_Object_FixAttempt:Ted_C_SpineLower_Jnt
+    400012: SirTed_Object_FixAttempt:Ted_C_SpineMiddle_Jnt
+    400014: SirTed_Object_FixAttempt:Ted_C_SpineUpper_Jnt
+    400016: SirTed_Object_FixAttempt:Ted_L_ArmElbow_Jnt
+    400018: SirTed_Object_FixAttempt:Ted_L_ArmShoulder_Jnt
+    400020: SirTed_Object_FixAttempt:Ted_L_Clavical_Jnt
+    400022: SirTed_Object_FixAttempt:Ted_L_Handr_Jnt
+    400024: SirTed_Object_FixAttempt:Ted_L_HandTip_Jnt
+    400026: SirTed_Object_FixAttempt:Ted_L_LegFoot_Jnt
+    400028: SirTed_Object_FixAttempt:Ted_L_LegKnee_Jnt
+    400030: SirTed_Object_FixAttempt:Ted_L_LegTip_Jnt
+    400032: SirTed_Object_FixAttempt:Ted_L_LegToe_Jnt
+    400034: SirTed_Object_FixAttempt:Ted_L_LegTop_Jnt
+    400036: SirTed_Object_FixAttempt:Ted_R_ArmElbow_Jnt
+    400038: SirTed_Object_FixAttempt:Ted_R_ArmShoulder_Jnt
+    400040: SirTed_Object_FixAttempt:Ted_R_Clavical_Jnt
+    400042: SirTed_Object_FixAttempt:Ted_R_Handr_Jnt
+    400044: SirTed_Object_FixAttempt:Ted_R_HandTip_Jnt
+    400046: SirTed_Object_FixAttempt:Ted_R_RegFoot_Jnt
+    400048: SirTed_Object_FixAttempt:Ted_R_RegKnee_Jnt
+    400050: SirTed_Object_FixAttempt:Ted_R_RegTip_Jnt
+    400052: SirTed_Object_FixAttempt:Ted_R_RegToe_Jnt
+    400054: SirTed_Object_FixAttempt:Ted_R_RegTop_Jnt
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
