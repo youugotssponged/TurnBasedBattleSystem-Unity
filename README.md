@@ -9,3 +9,6 @@ This project was developed with Unity, C#, Blender, Maya and Photoshop.
 
 ## Sample Screenshots
 
+![](./Images/s1.png)
+![](./Images/s2.png)
+![](./Images/s3.png)
